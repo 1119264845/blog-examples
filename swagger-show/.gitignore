@@ -1,0 +1,21 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+examples.iml
+/target
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+### VS Code ###
+.vscode/
+/.mvn/
+/mvnw.cmd
+/mvnw
+/.mvn/wrapper/maven-wrapper.jar
